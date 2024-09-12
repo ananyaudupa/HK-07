@@ -67,7 +67,7 @@ class _DashboardState extends State<Dashboard> {
           gradient: LinearGradient(
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
-            colors: [Colors.green.shade400, Colors.blue.shade500],
+            colors: [Colors.green.shade50, Colors.blue.shade500],
           ),
         ),
         child: Center(

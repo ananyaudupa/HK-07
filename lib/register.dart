@@ -23,7 +23,7 @@ class _RegisterState extends State<Register> {
           gradient: LinearGradient(
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
-            colors: [Colors.teal.shade500, Colors.blue.shade500],
+            colors: [Colors.green.shade50, Colors.blue.shade500],
           ),
         ),
         child: Center(
